@@ -1,18 +1,18 @@
 # Rancid Tomatillos
 
-# Project By: [Edwin Montealvo](https://github.com/emontealvo) and [Alex Sodemann](https://github.com/asodemann18)
+## Project By: [Edwin Montealvo](https://github.com/emontealvo) and [Alex Sodemann](https://github.com/asodemann18)
 
-# About
+## About
 Movie rating site where a user can login and rate/favorite the movies they loved or hated.  A user can also comment on a specific movie.
 
-# Project Goals
+## Project Goals
 * Reinforce React fundamentals
 * Use React Router to create a multi-page user experience
 * Reinforce component and asynchronous JS testing
 * Work with and navigate a shared, persistent API using GET, POST, and DELETE requests
 * Create a microservice using express and node.js 
 
-# In Action
+## In Action
 
 ### Non-logged in user side:
 ![No Login](https://media.giphy.com/media/eMUAOdDlIUz0gSIAZ4/giphy.gif)
