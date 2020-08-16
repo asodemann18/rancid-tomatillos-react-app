@@ -3,7 +3,7 @@
 ## Project By: [Edwin Montealvo](https://github.com/emontealvo) and [Alex Sodemann](https://github.com/asodemann18)
 
 ## About
-Movie rating site where a user can login and rate/favorite the movies they loved or hated.  A user can also comment on a specific movie.
+Movie rating site where a user can log in and rate/favorite the movies they loved or hated.  A user can also comment on a specific movie.
 
 ## Project Goals
 * Reinforce React fundamentals
